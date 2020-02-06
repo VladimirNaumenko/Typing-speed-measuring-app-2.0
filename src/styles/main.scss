@@ -1,0 +1,16 @@
+// General
+@import "general/variables";
+@import "general/mixins";
+@import "vendors/normalize";
+//@import "general/fonts";
+@import "general/base";
+
+// Vendors
+//@import "vendors/lightGallery";
+@import "components/keyboard";
+@import "components/header";
+@import "components/verdict";
+// Components
+// Helpers
+@import "helpers/animations";
+

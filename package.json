@@ -3,12 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@progress/kendo-drawing": "^1.6.0",
+    "@progress/kendo-react-gauges": "^3.10.1",
+    "@progress/kendo-react-intl": "^3.10.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
+    "canvas-gauges": "^2.1.5",
+    "node-sass": "^4.13.1",
+    "nodesass": "0.0.2-security",
     "react": "^16.12.0",
+    "react-canvas-gauges": "^1.2.1",
+    "react-circular-progressbar": "^2.0.3",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.1"
+    "react-gauge": "0.0.5",
+    "react-gauge-chart": "^0.2.5",
+    "react-progressbar-semicircle": "^1.2.1",
+    "react-scripts": "3.3.1",
+    "react-svg-gauge": "^1.0.10"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-canvas-gauge": "^1.0.2"
   }
 }

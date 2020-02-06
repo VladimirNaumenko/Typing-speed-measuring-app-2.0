@@ -1,0 +1,11 @@
+.verdict{
+  text-align: center;
+  font-family: 'Arimo', sans-serif;
+  color: #fff;
+  transition: all 1s;
+  margin-top: 20px;
+  font-size: 30px;
+  span {
+    text-transform: capitalize;
+  }
+}
